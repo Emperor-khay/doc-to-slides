@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+credentials.json
+token.json
+
 # testing
 /coverage
 
